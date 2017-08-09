@@ -5,6 +5,11 @@ A simple newsletter sign-up form using Ajax, PHP and MySQL.
 
 ![](https://raw.github.com/pinceladasdaweb/Ajax-PHP-MySQL-Newsletter/master/screenshot.png)
 
+![](https://github.com/ben993/ajaxcallphp_db/blob/master/pic1.jpg)
+
+![](https://github.com/ben993/ajaxcallphp_db/blob/master/pic2.jpg?)
+
+
 How to use
 -----------------
 
